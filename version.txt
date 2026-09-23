@@ -1,0 +1,2 @@
+1.1.0
+https://github.com/fefarjitendra2212/BJVM-Exam-Update/releases/download/v1.1.0/Setup.exe
